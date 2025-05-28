@@ -53,4 +53,3 @@ Organizadores que não cumprirem os requisitos poderão ser convidados a se reti
 ## Art. 5º – Alterações no Estatuto
 
 - Alterações no estatuto podem ser propostas por qualquer organizador e aprovadas por maioria simples em reunião interna, desde que previamente comunicada com 15 dias de antecedência.
-# estatuto
