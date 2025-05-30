@@ -57,6 +57,7 @@ Se você tem interesse em contribuir com a comunidade, pode nos ajudar de divers
 
 📸☕ Seja qual for sua habilidade, sua ajuda será muito bem-vinda!  
 📄 Se você for estudante, emitimos um certificado de participação como voluntário na organização (6 horas).
+[Formulario de inscrição](https://forms.gle/V5k2NhZtX4SMWNALA) 
 
 ### §3.2 – Chamada de Palestrantes
 🎤 Quer palestrar em nossos eventos?  
@@ -64,7 +65,7 @@ Se você tem uma experiência, case ou tema técnico envolvendo AWS ou tecnologi
 
 💡 Não importa se é sua primeira ou décima palestra — nosso time apoia você na preparação, no conteúdo e na entrega.  
 📄 Para palestrantes, emitimos certificado de participação e divulgação nas nossas redes sociais.
-[Formulario de inscrição](https://docs.google.com/forms/d/e/1FAIpQLSeG1CpwhNuZnZPB8nPTH1539VUBBKTgu_DeGeh6oElkKXNmpw/viewform?usp=sharing&ouid=111403376879779922673) 
+[Formulario de inscrição](https://forms.gle/Dse7v9CnnsQn63iY6) 
 
 ## Art. 4º – Financiamento e Parcerias
 
